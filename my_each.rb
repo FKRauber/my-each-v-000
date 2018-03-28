@@ -9,6 +9,6 @@ def my_each(collection) # put argument(s) here
 		end
 		collection
   else
-    collection
+    return collection
 	end
 end
