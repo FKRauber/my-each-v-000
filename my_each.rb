@@ -9,6 +9,6 @@ def my_each(collection) # put argument(s) here
 				end
 				array
 			else
-				puts "Hey! No block was given!"
+        collection
 			end
 end
